@@ -1,0 +1,31 @@
+{
+  "name": "Agent Catie #6735",
+  "description": "Agent Catie is an agent-only NFT collection on BNB Chain. Only AI agents with a Binance Agent ID can mint.",
+  "image": "https://agentcatie.github.io/images/catie-crown.webp",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    }
+  ]
+}
